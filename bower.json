@@ -1,0 +1,21 @@
+{
+  "name": "angular2-skeleton-app",
+  "description": "",
+  "main": "",
+  "authors": [
+    "sara <sara.wagner23q@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
