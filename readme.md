@@ -1,17 +1,15 @@
 ## Sara Wagner
-#### Angular JS Boiler Plate
+#### Angular JS Boiler Plate with full Sass watch
 
 ~Description~
 
-This is a project for week 1 of JavaScript at Epicodus. It includes languages **HTML, CSS, Bootstrap, Javascript, and Jquery**. This project will have a "boiler plate" setup for Javascript projects including Sass.
+This is a template for new projects using Angular with full Sass capabilities.
 
 To begin:
 
   -Run npm install
 
-  -Run bower install dependencies needed (jquery, bootstrap, etc)
-
-  -Run bower init
+  -Run bower install dependencies as needed
 
   -Run gulp build
 
